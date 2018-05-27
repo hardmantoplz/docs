@@ -199,35 +199,3 @@
 	
 	</body>
 </html>
-
-	
-	<!---experimental
-		
-	<section> 
-		<article>
-			<header>
-				<hgroup>
-					<h1>Project 1</h1>
-					<h2>subtitle Project 1</h2>
-			</hgroup>
-			</header>
-			<p>Project 1</p>
-			<footer>
-				<p>footer Project 1</p>
-			</footer>
-		</article>
-		<article>
-			<header>
-				<hgroup>
-					<h1>Project 2</h1>
-					<h2>subtitle Project 2</h2>
-			</hgroup>
-			</header>
-			<p>Project 2</p>
-			<footer>
-				<p>footer Project 2</p>
-			</footer>
-		</article>
-	</section>
-		
-	-->
