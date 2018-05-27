@@ -186,7 +186,7 @@
 					<hr class="light">
 						<p>Corey Wilcox</p>
 						<p>541.633.9881</p>
-						<p>cwilcox@sageridgeinc.com</p>
+						<p>cw@sageridgeinc.com</p>
 						<p>63370 Peterman Ln</p>
 						<p>Bend OR 97701</p>
 						<hr class="light">
